@@ -7,3 +7,4 @@ yum makecache fast
 
 # 安装需要的软件 httpd tftp dhcp
 yum -y install httpd dhcp tftp-server syslinux
+
